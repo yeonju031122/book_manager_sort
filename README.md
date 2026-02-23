@@ -1,4 +1,4 @@
-# book manager tkinter (Tkinter)
+# Book Manager (Tkinter)
 
 도서 검색/대여 가능 여부 확인 프로그램  
 제목/저자 기준으로 Naive String Matching 알고리즘을 사용한 문자열 탐색 기능 구현  
