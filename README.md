@@ -5,6 +5,11 @@
 검색 시 소요된 시간 측정 및 팝업 출력  
 도서 데이터는 books.txt 파일에서 로드  
 
+## 실행 화면
+
+![main](assets/screenshot_main.png)
+
+
 ---
 
 ## 주요 기능
